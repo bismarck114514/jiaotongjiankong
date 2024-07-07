@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/images">
+    <file>1.jpg</file>
+    <file>bg.jpg</file>
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="/videos">
+    <file>vd1.mp4</file>
+    <file>vd2.mp4</file>
+  </qresource>
+</RCC>
